@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # log-rotate.sh
 # Simple log rotation & compression script
-#
 # Usage:
 #   ./log-rotate.sh /var/log/myapp myapp.log 7
 #

@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # user-audit.sh
 # Local user audit tool
-#
 # Features:
 #  - Lists local user accounts (from /etc/passwd)
 #  - Shows UID, GID, home, shell

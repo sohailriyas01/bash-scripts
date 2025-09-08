@@ -2,7 +2,6 @@
 # disk-usage-alert.sh
 # Alert when disk usage on any filesystem exceeds a threshold.
 # Default threshold: 90 (%)
-#
 # Usage:
 #   ./disk-usage-alert.sh                # uses default threshold 90%
 #   ./disk-usage-alert.sh -t 80          # set threshold to 80%

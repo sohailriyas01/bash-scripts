@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# system-monitor.sh
 # A simple system monitoring script
 
 # Colors
